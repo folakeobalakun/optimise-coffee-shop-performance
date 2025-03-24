@@ -46,6 +46,17 @@ View the Interactive Dashboard
 
 [View Dashboard](https://public.tableau.com/app/profile/folake.obalakun/viz/Optimisingcoffeeshopperformance/Dashboard2)  
 
+## Project Insight
+
+- There was a 6.77% decline in revenue from January to February.
+- Revenue steadily increased from February to June, with growth rates ranging from 6.23% to 31.77%.
+- Friday had the highest number of transactions, followed by Thursday and Monday. The margin is very close
+- Saturday and Sunday had the lowest sales volumes, indicating potential weekend sales gaps.
+- 10 AM was the peak sales hour, with the highest number of transactions.
+- Sales were lowest at 6 AM and 8 PM, aligning with the start and close of business hours.
+- Coffee was the top-selling product category, accounting for 39.18% of total transactions.
+- Brewed Chai Tea was the best-selling product type by transaction count.
+- Barista Espresso generated the highest revenue among all product types
 
 
 
