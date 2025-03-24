@@ -5,7 +5,7 @@ A coffee chain with three locations in Coventry recently changed ownership. The 
 ## Dataset used
 - <a href= "https://github.com/folakeobalakun/optimise-coffee-shop-performance/blob/main/Coffee%20Shop%20Sales%20Data%20.xlsx">Dataset</a>
 
-##Tools
+## Tools
 - Excel
 - Tableau
 
@@ -58,5 +58,11 @@ View the Interactive Dashboard
 - Brewed Chai Tea was the best-selling product type by transaction count.
 - Barista Espresso generated the highest revenue among all product types
 
+## Recommendations
 
-
+- Implement weekend promotions or loyalty discounts to increase transactions on Saturday and Sunday.
+- Introduce limited-time offers or bundled deals during peak hours to boost sales further
+- Weekend-specific promotions (e.g., "Weekend Brunch Specials" or "Buy One, Get One Free") to attract more customers.
+- Promote Barista Espresso as a premium offering to maintain high revenue margins.
+- Reduce staffing during 6 AM and 8 PM due to low customer traffic.
+- Offer early morning discounts (6-8 AM) and evening happy hour deals (6-8 PM) to boost sales during slow periods.
