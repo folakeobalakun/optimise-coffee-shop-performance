@@ -12,3 +12,5 @@ A coffee chain with three locations in Coventry recently changed ownership. The 
 - Do weekend sales differ significantly from weekday sales?
 - Which category generates the highest number of transactions?
 - What are the top-selling products by volume and revenue?
+
+- Dashboard Interaction  <a href= "https://github.com/folakeobalakun/optimise-coffee-shop-performance/blob/main/Dashboard%202.png">View Dashboard</a>
