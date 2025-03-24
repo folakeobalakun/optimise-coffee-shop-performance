@@ -34,7 +34,7 @@ Data Profiling:
 
 ## Data Visualization & KPI Analysis
 
-Data was exported to Tableau for analysis and visalisation
+Data was exported to Tableau for analysis and visualisation
 
 Tableau Workbook 
 [Open Workbook](https://github.com/folakeobalakun/optimise-coffee-shop-performance/raw/main/Optimising%20coffee%20shop%20performance.twbx)
