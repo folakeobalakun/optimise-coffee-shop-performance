@@ -43,7 +43,7 @@ Tableau Workbook
 ![Dashboard 2](https://github.com/user-attachments/assets/44aceb70-4559-4649-9414-c3b440ddb285)
 
 
-- Dashboard Interaction  <a href= "https://github.com/folakeobalakun/optimise-coffee-shop-performance/blob/main/Dashboard%202.png">View Dashboard</a>
+- Dashboard Interaction <a href= "https://public.tableau.com/app/profile/folake.obalakun/viz/Optimisingcoffeeshopperformance/Dashboard2" Dynamic Dashboard </a>
 
 
 
