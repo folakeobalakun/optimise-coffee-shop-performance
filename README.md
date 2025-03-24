@@ -18,7 +18,7 @@ A coffee chain with three locations in Coventry recently changed ownership. The 
 - What are the top-selling products by volume and revenue?
 
 ## Data Preparation 
-##Data Profiling:
+Data Profiling:
 - The dataset contained 149,455 unique transactions.
 - Transaction timestamps ranged from 6 AM to 8 PM daily.
 - Product prices ranged from £0.80 (syrup) to £45.00 (premium coffee product type).
@@ -32,5 +32,10 @@ A coffee chain with three locations in Coventry recently changed ownership. The 
 - Weekday 
 - Hour of Transaction
 
+## Data Visualization & KPI Analysis
+
+Data was exported to Tableau for analysis and visalisation
+# Tableau Workbook 
+- <a href= "https://github.com/folakeobalakun/optimise-coffee-shop-performance/blob/main/Optimising%20coffee%20shop%20performance.twbx" View Workbook</a>
 
 - Dashboard Interaction  <a href= "https://github.com/folakeobalakun/optimise-coffee-shop-performance/blob/main/Dashboard%202.png">View Dashboard</a>
