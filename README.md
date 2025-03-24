@@ -35,12 +35,17 @@ Data Profiling:
 ## Data Visualization & KPI Analysis
 
 Data was exported to Tableau for analysis and visalisation
- Tableau Workbook 
-- <a href= "https://github.com/folakeobalakun/optimise-coffee-shop-performance/blob/main/Optimising%20coffee%20shop%20performance.twbx" View Workbook</a>
+
+Tableau Workbook 
+[Open Workbook](https://github.com/folakeobalakun/optimise-coffee-shop-performance/raw/main/Optimising%20coffee%20shop%20performance.twbx)
+
+## Dashboard 
+![Dashboard 2](https://github.com/user-attachments/assets/44aceb70-4559-4649-9414-c3b440ddb285)
+
 
 - Dashboard Interaction  <a href= "https://github.com/folakeobalakun/optimise-coffee-shop-performance/blob/main/Dashboard%202.png">View Dashboard</a>
 
-## Open the Tableau Workbook
 
-[Open Workbook](https://github.com/folakeobalakun/optimise-coffee-shop-performance/raw/main/Optimising%20coffee%20shop%20performance.twbx)
+
+
 
