@@ -45,6 +45,9 @@ Tableau Workbook
 
 - Dashboard Interaction <a href= "https://public.tableau.com/app/profile/folake.obalakun/viz/Optimisingcoffeeshopperformance/Dashboard2" Dynamic Dashboard </a>
 
+## View the Interactive Dashboard  
+
+[View Dashboard](https://public.tableau.com/app/profile/folake.obalakun/viz/Optimisingcoffeeshopperformance/Dashboard2)  
 
 
 
